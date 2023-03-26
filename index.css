@@ -1,0 +1,31 @@
+.carousel-cell{
+    
+    width: 100%;
+}
+@media screen and (min-width: 993px) {
+    .carousel-cell {
+        width: 33.333%;
+    }
+  }
+.carousel-cell::before{
+    display: block;
+    content: '';
+}
+.carousel{
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+
+
+
+
+.col-sm a{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+} 
+.col-sm div{
+    width: 90%;
+    color: rgb(141, 141, 141);
+    font-style: italic;
+}
