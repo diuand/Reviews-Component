@@ -28,6 +28,7 @@ A Responsive Landing Page Feature with Slide Animation for E-commerce Websites
  - [Multiple items and single item (component)](https://github.com/diuand/Multiple-items-and-single-item-Component)
   - [Media articles (component)](https://github.com/diuand/Media-component)
  - [Instagram Posts (component)](https://github.com/diuand/Instagram-Advertisement-Component)
+ - [Reviews (component)](https://github.com/diuand/Reviews-Component)
  - [Footer (component)](https://github.com/diuand/Footer-Component)
 
 Component of the Project: [Angular Ecomerce Website](https://github.com/diuand/Angular-Ecomerce-Website)
